@@ -16,7 +16,7 @@ Root
 │        ├── Raw          
 │        └── Processed
 ├── Exports
-├── Project Files
+└── Project Files
 ```
 
 ## Install
