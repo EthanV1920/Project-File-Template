@@ -5,16 +5,19 @@
 
 ## Folder Structure
 ```
-Root
-├── Media                    
-│   ├── GFX          
-│   ├── SFX
+[Selected Folder]
+├── Media
 │   ├── Video
-│   │    ├── Raw          
-│   │    └── Proxy    
-│   └── Audio
-│        ├── Raw          
-│        └── Processed
+│   ├── Audio
+│   │   ├── Raw
+│   │   ├── Processed
+│   │   └── Sound Bed
+│   │       ├── Music
+│   │       └── Sound Effects
+│   ├── Photos
+│   └── Graphics
+│       ├── Graphics Projects
+│       └── Graphics Exports
 ├── Exports
 └── Project Files
 ```
