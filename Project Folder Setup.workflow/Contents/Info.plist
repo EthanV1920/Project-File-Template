@@ -8,7 +8,7 @@
 			<key>NSBackgroundColorName</key>
 			<string>background</string>
 			<key>NSBackgroundSystemColorName</key>
-			<string>systemBlueColor</string>
+			<string>systemOrangeColor</string>
 			<key>NSIconName</key>
 			<string>NSTouchBarAllMyFiles</string>
 			<key>NSMenuItem</key>

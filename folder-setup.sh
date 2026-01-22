@@ -12,14 +12,19 @@ mkdir Project\ Files
 cd media
 mkdir Video
 mkdir Audio
-mkdir GFX
-mkdir SFX
-
-cd Video
-mkdir Raw
-mkdir Proxy
-cd ..
+mkdir Photos
+mkdir Graphics
 
 cd Audio
 mkdir Raw
 mkdir Processed
+mkdir Sound\ Bed
+cd Sound\ Bed
+mkdir Music
+mkdir Sound\ Effects
+cd ..
+cd ..
+
+cd Graphics
+mkdir Graphics\ Projects
+mkdir Graphics\ Exports
